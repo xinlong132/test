@@ -1,5 +1,6 @@
 # -*- coding:utf-8 _*-
 #python操作mysql数据库
+#anthor：wft
 import pymysql
 
 from common.config import ReadConfig
