@@ -1,6 +1,6 @@
 #目录引用
 #os操作
-
+112233
 import os
 basedir=os.path.dirname(os.path.abspath(__file__))
 print(basedir)
